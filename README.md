@@ -1,7 +1,9 @@
 ## Hi there 👋
 🔭 I’m currently working on Head Office PT Perkebunan Nusantara IV 
 
-![Alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=jakabaskara)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakabaskara" alt="Top Langs">
+</div>
 <!--
 **jakabaskara/jakabaskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
