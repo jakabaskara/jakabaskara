@@ -5,13 +5,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakabaskara&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakabaskara&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=jakabaskara&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffd700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
