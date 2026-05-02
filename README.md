@@ -29,15 +29,5 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/jakabaskara/jakabaskara/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 
 </div>
